@@ -1,7 +1,7 @@
 <!-- README.md for TechNova Private Solutions -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TechNova-Private-Solutions/.github/main/assets/technova-logo.png" height="120" alt="TechNova logo"/>
+  <img src="./TechNova dark logo.png" height="120" alt="TechNova logo"/>
   <h1>TechNova Private Solutions</h1>
   <strong>Empowering businesses with innovative tech solutions</strong>
   <br/><br/>
